@@ -12,3 +12,4 @@ services:
 
 volumes:
   media_data:
+    name: media-check-bot-data
